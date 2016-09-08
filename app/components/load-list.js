@@ -1,0 +1,1 @@
+export { default } from 'fill-on-scroll/components/load-list';
